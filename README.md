@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+Training-Free Group Relative Policy Optimization
+
 How Reinforcement Learning After Next-Token Prediction Facilitates Learning
 
 From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones
