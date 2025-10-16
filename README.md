@@ -1,7 +1,17 @@
 # Awesome-MoE-RL
 
+- [Stack (Papers to Review)](#stack-papers-to-review)
+- [MoE Papers](#moe)
+  - [Core](#core)
+  - [Middle](#middle)
+  - [Outer](#outer)
+- [RL Papers](#rl)
+  - [Core](#core-1)
+  - [Middle](#middle-1)
+  - [Outer](#outer-1)
 
-## Stack (Paper needs to filter/add)
+
+## Stack (Papers to Review)
 How Reinforcement Learning After Next-Token Prediction Facilitates Learning
 
 From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones
