@@ -12,6 +12,10 @@
 
 
 ## Stack (Papers to Review)
+MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention
+
+The Art of Scaling Reinforcement Learning Compute for LLMs
+
 DR.LLM: DYNAMIC LAYER ROUTING IN LLMS
 
 Training-Free Group Relative Policy Optimization
