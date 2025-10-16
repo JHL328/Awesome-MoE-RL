@@ -42,6 +42,8 @@ Mirage or Method? How Model-Task Alignment Induces Divergent RL Conclusions
 
 Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning
 
+Recipes for Pre-training LLMs with MXFP8
+
 ## MoE 
 
 ### Core
