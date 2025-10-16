@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+DR.LLM: DYNAMIC LAYER ROUTING IN LLMS
+
 Training-Free Group Relative Policy Optimization
 
 How Reinforcement Learning After Next-Token Prediction Facilitates Learning
