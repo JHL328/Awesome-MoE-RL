@@ -67,6 +67,8 @@ FLEXOLMO: Open Language Models for Flexible Data Use
 
 ### Core
 
+(Project Related) Reinforcement Learning Finetunes Small Subnetworks in Large Language Models
+
 ### Middle
 
 ### Outer
