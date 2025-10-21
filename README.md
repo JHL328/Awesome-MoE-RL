@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum
+
 Reasoning with Sampling: Your Base Model is Smarter Than You Think
 
 MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention
