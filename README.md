@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+Attention Illuminates LLM Reasoning: The Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization
+
 Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum
 
 Reasoning with Sampling: Your Base Model is Smarter Than You Think
