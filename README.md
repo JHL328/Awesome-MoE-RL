@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+Reasoning with Sampling: Your Base Model is Smarter Than You Think
+
 MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention
 
 The Art of Scaling Reinforcement Learning Compute for LLMs
