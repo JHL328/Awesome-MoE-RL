@@ -12,7 +12,7 @@
 
 
 ## Stack (Papers to Review)
-BEYOND THE EXPLORATION-EXPLOITATION TRADEOFF: A HIDDEN STATE APPROACH FOR LLM REASONING IN RLVR
+Beyond the Exploration-Exploitation Trade-off: A Hidden State Approach for LLM Reasoning in RLVR
 
 Input Domain Aware MoE: Decoupling Routing Decisions from Task Optimization in Mixture of Experts
 
