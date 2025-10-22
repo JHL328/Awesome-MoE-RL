@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+BEYOND THE EXPLORATION-EXPLOITATION TRADEOFF: A HIDDEN STATE APPROACH FOR LLM REASONING IN RLVR
+
 Input Domain Aware MoE: Decoupling Routing Decisions from Task Optimization in Mixture of Experts
 
 Attention Illuminates LLM Reasoning: The Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization
