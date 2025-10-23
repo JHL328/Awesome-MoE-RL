@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+Multilingual Routing in Mixture-of-Experts
+
 Beyond the Exploration-Exploitation Trade-off: A Hidden State Approach for LLM Reasoning in RLVR
 
 Input Domain Aware MoE: Decoupling Routing Decisions from Task Optimization in Mixture of Experts
