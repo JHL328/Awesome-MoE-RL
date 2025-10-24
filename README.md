@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+Continual Learning via Sparse Memory Finetuning
+
 Multilingual Routing in Mixture-of-Experts
 
 Beyond the Exploration-Exploitation Trade-off: A Hidden State Approach for LLM Reasoning in RLVR
