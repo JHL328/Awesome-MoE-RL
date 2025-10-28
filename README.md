@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+The Art of Scaling Reinforcement Learning Compute for LLMs
+
 Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open Language Foundation
 
 Continual Learning via Sparse Memory Finetuning
