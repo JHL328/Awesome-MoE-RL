@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open Language Foundation
+
 Continual Learning via Sparse Memory Finetuning
 
 Multilingual Routing in Mixture-of-Experts
