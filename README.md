@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+Weight-sparse transformers have interpretable circuits
+
 Soft Adaptive Policy Optimization
 
 [JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://relieved-cafe-fe1.notion.site/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8)
