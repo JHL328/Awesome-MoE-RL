@@ -12,6 +12,8 @@
 
 
 ## Stack (Papers to Review)
+MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes
+
 Weight-sparse transformers have interpretable circuits
 
 Soft Adaptive Policy Optimization
